@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EUWNigator
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning PHP, MySQL, NodeJS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development, mostly during my introduction into IT world
+- 🌱 I’m currently learning PHP, MySQL, and JS with React, Node and Express
+- 💞️ I’m looking to collaborate on who ever is interested in create something greate
 - 📫 How to reach me => through social media accounts or email
 
 <!---
